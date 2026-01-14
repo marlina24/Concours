@@ -1,6 +1,6 @@
 # Concours – Projet C# (.NET)
 
-👩🏽‍💻 Description
+👩🏽‍💻 
 Ce projet est une application console en C#** réalisée dans le cadre de l’apprentissage du langage C# / .NET.  
 Il permet de gérer les résultats d’un concours à partir d’un fichier CSV contenant les informations des étudiants.
 
